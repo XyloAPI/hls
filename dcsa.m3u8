@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:VOD
+
+#EXTINF:0.0,
+https://huggingface.co/buckets/boldfrost/cloud-lone-token/resolve/62a971b4-cdb7-4ba0-b31d-31254838353e.mp4
+#EXT-X-ENDLIST
